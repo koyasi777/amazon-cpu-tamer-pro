@@ -2,7 +2,7 @@
 // @name         Amazon CPU Tamer PRO 🧠✨
 // @namespace    https://github.com/koyasi777/amazon-cpu-tamer-pro
 // @version      3.0.0
-// @description  Drastically reduce CPU usage on Amazon pages by intelligently throttling background tasks. No affiliate, no DOM rewriting, secure & lightweight.
+// @description  AmazonのCPU負荷を劇的に削減！DOM非改変・アフィなし・軽量＆安全設計の高効率ユーザースクリプト。
 // @author       koyasi777
 // @match        https://www.amazon.com/*
 // @match        https://www.amazon.co.jp/*
@@ -11,9 +11,20 @@
 // @match        https://www.amazon.fr/*
 // @match        https://www.amazon.de/*
 // @match        https://www.amazon.it/*
-// @match        https://www.amazon.*
-// @exclude      */cart/*
-// @exclude      */buy/*
+// @exclude      https://www.amazon.com/cart/*
+// @exclude      https://www.amazon.co.jp/cart/*
+// @exclude      https://www.amazon.co.uk/cart/*
+// @exclude      https://www.amazon.es/cart/*
+// @exclude      https://www.amazon.fr/cart/*
+// @exclude      https://www.amazon.de/cart/*
+// @exclude      https://www.amazon.it/cart/*
+// @exclude      https://www.amazon.com/buy/*
+// @exclude      https://www.amazon.co.jp/buy/*
+// @exclude      https://www.amazon.co.uk/buy/*
+// @exclude      https://www.amazon.es/buy/*
+// @exclude      https://www.amazon.fr/buy/*
+// @exclude      https://www.amazon.de/buy/*
+// @exclude      https://www.amazon.it/buy/*
 // @grant        none
 // @license      MIT
 // @homepageURL  https://github.com/koyasi777/amazon-cpu-tamer-pro
