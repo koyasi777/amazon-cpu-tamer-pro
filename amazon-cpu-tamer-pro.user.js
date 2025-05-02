@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon CPU Tamer PRO 🧠✨
 // @namespace    https://github.com/koyasi777/amazon-cpu-tamer-pro
-// @version      3.0.0
+// @version      3.0.1
 // @description  AmazonのCPU負荷を劇的に削減！DOM非改変・アフィなし・軽量＆安全設計の高効率ユーザースクリプト。
 // @author       koyasi777
 // @match        https://www.amazon.com/*
@@ -30,6 +30,7 @@
 // @homepageURL  https://github.com/koyasi777/amazon-cpu-tamer-pro
 // @supportURL   https://github.com/koyasi777/amazon-cpu-tamer-pro/issues
 // @run-at       document-start
+// @icon         https://www.amazon.co.jp/favicon.ico
 // ==/UserScript==
 
 (function () {
